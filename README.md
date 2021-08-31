@@ -16,4 +16,4 @@ Sound files are mostly found in the [AudioClip](https://github.com/UniDuki/ppg-a
 ## Videos
 There are currently only 3 video files found in the [VideoClip](https://github.com/UniDuki/ppg-assets/tree/master/VideoClip) folder, 2 are "secret" videos, the other is the video that plays on the television.
 
-*Will be attempted updated to any future versions*
+*Will try to be updated to any future versions*

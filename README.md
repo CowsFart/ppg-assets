@@ -10,6 +10,7 @@ If you can not find the sprite you are looking for, please make a new issue and 
 All the textures for the objects will be found in the [Objects](https://github.com/UniDuki/ppg-assets/tree/master/Objects) folder. 
 There will be a folder with the in-game name of the object. Inside, the object's icon, sprite and any other textures that the object uses.
 
+
 &nbsp;
 
 

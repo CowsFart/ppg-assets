@@ -4,7 +4,7 @@ A collection of all the sprites and assets from the game **[people playground](h
 
 This was made so that mod makers who want to make similar sprites or edit the game's current sprites, can easily access them.
 
-If there's a problem, like a file being in the wrong place, something named incorrectly or you're just confused about something, please **[create an issue](https://github.com/UniDuki/ppg-assets/issues/new)** and I'll respond as soon as possible.
+If there's a problem, like a file being in the wrong place, something named incorrectly or you're just confused about something, please **[create an issue](https://github.com/UniDuki/ppg-assets/issues/new/choose)** and I'll respond as soon as possible.
 
 &nbsp;
 

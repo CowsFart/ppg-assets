@@ -1,6 +1,6 @@
 
 # ppg-assets
-A collection of all the sprites and assets from the game **[people playground](https://store.steampowered.com/app/1118200/People_Playground/)**.
+A sorted collection of all the sprites and assets from the game **[people playground](https://store.steampowered.com/app/1118200/People_Playground/)**.
 
 This was made so that mod makers who want to make similar sprites or edit the game's current sprites, can easily access them.
 
@@ -8,10 +8,17 @@ If there's a problem, like a file being in the wrong place, something named inco
 
 &nbsp;
 
+
+
 ## /[objects](https://github.com/UniDuki/ppg-assets/tree/master/Objects)
-This is where the sprites for all objects are located.
+This is where the sprites for all objects are located. If you're looking for a specific texture, here is the best place to look.
 
 Each object has it's own folder, named after it's in-game name. Inside of each folder is the object's sprite, icon and any other textures it may use.
+
+
+
+## /[raw](https://github.com/UniDuki/ppg-assets/tree/master/raw)
+The raw extracted files from the game. Everything is in here, but it is hard to find exactly what you want.
 
 
 

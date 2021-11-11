@@ -1,5 +1,7 @@
 
 # ppg-assets
+Current version: **1.22**
+
 A sorted collection of all the sprites and assets from the game **[people playground](https://store.steampowered.com/app/1118200/People_Playground/)**.
 
 This was made so that mod makers who want to make similar sprites or edit the game's current sprites, can easily access them.
